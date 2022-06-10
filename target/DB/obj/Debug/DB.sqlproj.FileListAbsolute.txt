@@ -1,0 +1,10 @@
+d:\Users\Crni\Desktop\agrotrack\target\DB\bin\Debug\DB.dacpac
+d:\Users\Crni\Desktop\agrotrack\target\DB\bin\Debug\DB.dll
+d:\Users\Crni\Desktop\agrotrack\target\DB\bin\Debug\DB.pdb
+d:\Users\Crni\Desktop\agrotrack\target\DB\obj\Debug\DB.sqlprojAssemblyReference.cache
+d:\Users\Crni\Desktop\agrotrack\target\DB\obj\Debug\Model.xml
+d:\Users\Crni\Desktop\agrotrack\target\DB\obj\Debug\refactor.xml
+d:\Users\Crni\Desktop\agrotrack\target\DB\obj\Debug\postdeploy.sql
+d:\Users\Crni\Desktop\agrotrack\target\DB\obj\Debug\predeploy.sql
+d:\Users\Crni\Desktop\agrotrack\target\DB\obj\Debug\DB.dll
+d:\Users\Crni\Desktop\agrotrack\target\DB\obj\Debug\DB.pdb

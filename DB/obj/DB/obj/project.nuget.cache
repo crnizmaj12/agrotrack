@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSRbAKkIAnDkY4KoP1OBJE8Op2NZuPoELW6ZMZt4D7P/DaMQI3D16nGhS2HbkqaoP2VPQ07oiOFJDw5XBEErmg==",
+  "success": true,
+  "projectFilePath": "d:\\Users\\Crni\\Desktop\\agrotrack\\target\\DB\\obj\\DB\\DB.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crnia\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\crnia\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
